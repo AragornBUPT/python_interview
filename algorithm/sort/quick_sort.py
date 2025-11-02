@@ -32,7 +32,7 @@ def quick_sort(arr, left, right):
 
 
 if __name__ == "__main__":
-    ori_array = [58,53,48,45,59,52,47,49,54,57,38,40]
+    ori_array = [81,94,87,78,87,83,75,66,86,82,93,88]
     length = len(ori_array)
     print(f"length of ori_array : {length}")
 
