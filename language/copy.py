@@ -13,6 +13,9 @@ def print_all():
 
 print_all()
 
+b.append("sex")
+print_all()
+
 a[0] = "lisa"
 b[0] = "zhangsan"
 print_all()
