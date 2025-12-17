@@ -1,6 +1,9 @@
 import random
 from algorithm.sort.quick_sort import quick_sort
 
+'''
+调用lottery()函数，随机生成所有彩票数字
+'''
 
 def lottery():
     print("lottery is running...")
